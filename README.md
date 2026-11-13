@@ -1,6 +1,5 @@
 # Product-ranking-analysis
 This analysis helps businesses focus on high-revenue products, improve inventory planning, and design better marketing strategies.  
-# Product Ranking Analysis
 
 ## Project Overview
 This project analyzes product performance by ranking products based on total revenue. Using SQL Window Functions like RANK(), DENSE_RANK(), and ROW_NUMBER(), it identifies top-selling products and category-wise best performers. This analysis helps businesses focus on high-revenue products, improve inventory planning, and design better marketing strategies.
